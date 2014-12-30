@@ -1,0 +1,78 @@
+/*
+Student Name: Kai Yin Lau   
+Assignment #Extra Credit(HTML, CSS, JS)
+Class: Fall 2013 Web App Development: CIS 4160 QMWA [2475]
+Features Included:
+
+Advance Feature(if Any):
+* Name of the feature
+* What does it do?
+* Why do you think it's advance?
+
+References:
+Important: CODE COMMENTS
+
+*/
+
+/* CSS Document */
+
+/* elements */
+address, blockquote, body, caption, center, dd, dir, div, dl, dt, form, h1, h2, h3, h4, h5, h6, menu, ol, p, td, th, ul  {
+	font-family:Arial, Helvetica, sans-serif;	
+	}
+table {
+	border-collapse: collapse;
+}
+
+a:link {
+	color: #036;
+	text-decoration: underline;
+	}
+a:visited {
+	color: #666;
+	text-decoration: underline;
+	}	
+a:hover {
+	text-decoration: underline;
+	}
+a:active {
+	text-decoration: underline;
+	}	
+
+/* classes */	
+.errormsg {
+	color: #F00;
+	font-weight: bold;
+	}
+
+/* ids */
+#search caption, #results caption, #criteria caption, #details caption {
+	color: #000;
+	padding-bottom: 4px;
+	}
+#search th, #search td, #results th, #results td, #criteria th, #criteria td, #details th, #details td {
+	padding: 3px 2px;
+	border: 1px solid #999;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	}
+#search th, #search td {
+	padding: 4px 4px;
+	vertical-align: top;
+	}
+#details th, #details td {
+	padding: 4px 2px;
+	vertical-align: top;
+	}	
+#search th, #results th, #criteria th, #details th {
+	background: #ccc;
+	}
+#search th, #details th {
+	text-align: right;
+	}	
+#results td {
+	text-align: center;
+	}
+#search td, #criteria td, #details td {
+	text-align: left;
+	}

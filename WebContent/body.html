@@ -1,0 +1,13 @@
+<!--BODY Include Begins -->
+</head>
+
+<body>
+<!-- wrapper -->
+<div id="wrapper">
+
+<!-- banner -->
+<div id="banner"><a href="http://www.baruch.cuny.edu"><img src="http://www.baruch.cuny.edu/images/logo_baruch.gif" alt="Baruch College" name="logo" width="201" height="68" border="0" id="logo" /></a></div>
+<!-- /banner -->
+<!-- main -->
+<div id="main">
+<!--BODY Include ENDS -->
